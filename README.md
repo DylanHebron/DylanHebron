@@ -46,8 +46,20 @@ Most production work is in private repositories, so implementation details remai
 ![xUnit](https://img.shields.io/badge/Testing-xUnit-5C2D91?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logoColor=white)
+![Authentication & Authorization](https://img.shields.io/badge/AuthN_%26_AuthZ-6F42C1?style=flat-square&logoColor=white)
 
-**Still in the toolbox:** Java, PHP, Node.js, Socket.IO, Bootstrap, REST APIs, authentication and authorization, UML, design patterns, and concurrent programming.
+**Still in the toolbox**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Loading into memory...**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ## Building in public
 
