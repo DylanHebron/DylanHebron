@@ -47,7 +47,7 @@ Most production work is in private repositories, so implementation details remai
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logoColor=white)
-![Authentication & Authorization](https://img.shields.io/badge/AuthN_%26_AuthZ-6F42C1?style=flat-square&logoColor=white)
+![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Still in the toolbox**
 
